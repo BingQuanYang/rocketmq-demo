@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/alibaba-rocketmq/alibaba-rocketmq.iml" filepath="$PROJECT_DIR$/alibaba-rocketmq/alibaba-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alibaba-rocketmq/rocketmq-consumer/rocketmq-consumer.iml" filepath="$PROJECT_DIR$/alibaba-rocketmq/rocketmq-consumer/rocketmq-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alibaba-rocketmq/rocketmq-producer/rocketmq-producer.iml" filepath="$PROJECT_DIR$/alibaba-rocketmq/rocketmq-producer/rocketmq-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-rocketmq.iml" filepath="$PROJECT_DIR$/spring-cloud-rocketmq.iml" />
+    </modules>
+  </component>
+</project>

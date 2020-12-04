@@ -1,0 +1,15 @@
+server:
+  port: 8543
+
+spring:
+  application:
+    name: rocketmq-producer
+rocketmq:
+  #rocketmq 的 name-server 地址
+  name-server: 121.196.45.162:9876
+  producer:
+    # 必填
+    group: order-md
+
+
+msg: "hello-topic"

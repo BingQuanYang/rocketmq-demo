@@ -1,0 +1,10 @@
+server:
+  port: 8541
+
+spring:
+  application:
+    name: rocketmq-consumer
+
+rocketmq:
+  #name-server的 地址
+  name-server: 121.196.45.162:9876
